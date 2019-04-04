@@ -11,5 +11,7 @@ export class Exercice2Component implements OnInit {
 
   ngOnInit() {
   }
-
+  Exercice2():void{
+    console.log("hello Exercice2");
+  }
 }
